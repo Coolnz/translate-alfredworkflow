@@ -30,3 +30,9 @@
 
 [xwjdsh/fy: A command-line translation tool.](https://github.com/xwjdsh/fy)
 
+
+---
+
+
+
+[rsify/alfred-polyglot: 🈚️ Translate text using Google Translate in Alfred](https://github.com/rsify/alfred-polyglot)
